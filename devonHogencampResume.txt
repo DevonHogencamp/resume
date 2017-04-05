@@ -1,0 +1,64 @@
+Resume
+
+Devon Hogencamp
+
+Full Stack Web Developer
+
+Contact Info-
+17201 W. Gambit Tr, Surprise, AZ 85387
+623-806-6164
+devhogen1@gmail.com
+
+Summary-
+Learned Full Stack Web Development at West-MEC Coding Program. Have 2 years experience in designing and building 50+ web apps, working with teams to collaborate and create solutions. Experience also public speaking, presentations, creating startups based on products we create.
+
+Qualities-
+Clean
+Organized
+Detail Orientated
+Flexible and Adaptable
+Quick Learner
+Great Communicator
+Love working in teams
+Love creating plans to solve problems
+
+Experience-
+Built 6 HTML Games with OOP Javascript/Jquery
+Built LAMP Server in Ubuntu for serving PHP Apps
+Designed a Business for and Built 5 Web Apps collaborating with a team then presented the project to a board of investors(Subscription Service, Amazon App, Swift Sell App, EJS/Angular JS Artists App)
+Built a Twitter Notes App that interfaced with Twitter API
+Built a MEAN Stack Notes App, Speakers App, Chat App
+Designed and Developed Restaurants Bootstrap Website
+Designed and Built a Responsive Mobile Website with CSS
+Built 2 consumable API's using NodeJS Express MongoDB(Chat, Twitter)
+
+Tools/Skills-
+SRUM Agile Development
+Startup Business Plans
+Slack Messaging
+Atom IDE
+GitHub
+Postman
+Robomongo
+MySQL Workbench
+Unix Command Line
+HTML
+CSS Bootstrap
+Javascript Jquery AJAX OOP
+Jasmin Mocha Unit Testing
+Angular JS
+EJS
+PHP
+MySQL
+LAMP Stack
+Node JS
+Mongo DB
+MEAN Stack
+
+Certifications-
+Javascript Certification Pending
+
+Education-
+Shadow Ridge High School, Surprise AZ - High School Diploma 2017
+
+West-MEC Coding Program, Glendale AZ - CTE Certification 2017
