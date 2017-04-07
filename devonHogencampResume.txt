@@ -26,6 +26,7 @@ Built a Twitter Notes App that interfaced with Twitter API
 Built a MEAN Stack Notes App, Speakers App, Chat App
 Designed and Developed Restaurants Bootstrap Website
 Designed and Built a Responsive Mobile Website with CSS
+Built 3 consumable API's using Node Express MongoDB(Chat, Twitter, Ninja)
 
 Tools/Skills-
 SRUM Agile Development
