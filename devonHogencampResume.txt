@@ -15,8 +15,8 @@ Detail Orientated
 Flexible and Adaptable
 Quick Learner
 Great Communicator
-Love working in teams
-Love creating plans to solve problems
+Excellent Team Worker
+Enjoy creating plans to solve problems
 
 Experience-
 Built 6 HTML Games with OOP Javascript/Jquery
@@ -39,10 +39,11 @@ Robomongo
 MySQL Workbench
 Unix Command Line
 HTML
-CSS Bootstrap Responsive
+CSS Bootstrap Responsive SASS
 Javascript Jquery AJAX OOP ES6
 Jasmin Mocha Unit Testing
 Angular JS
+React JS
 EJS
 PHP
 MySQL
