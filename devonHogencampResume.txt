@@ -29,7 +29,7 @@ Designed and Built a Responsive Mobile Website with CSS
 Built 3 consumable API's using Node Express MongoDB(Chat, Twitter, Ninja)
 
 Tools/Skills-
-SRUM Agile Development
+SCRUM Agile Development
 Startup Business Plans
 Slack Messaging
 Atom IDE
@@ -38,6 +38,7 @@ Postman
 Robomongo
 MySQL Workbench
 Unix Command Line
+Gulp Webpack
 HTML
 CSS Bootstrap Responsive SASS
 Javascript Jquery AJAX OOP ES6
@@ -54,6 +55,7 @@ MEAN Stack
 
 Certifications-
 CIW Javascript Certification Pending
+ADE Skills Standards Assessment Certification
 
 Education-
 Shadow Ridge High School, Surprise AZ - High School Diploma 2017
